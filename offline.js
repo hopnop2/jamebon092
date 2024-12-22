@@ -1,0 +1,30 @@
+﻿{
+	"version": 1734855986,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/sprite-sheet0.png",
+		"images/bgmenu-sheet0.png",
+		"images/title-sheet0.png",
+		"images/btnplay-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/image-sheet0.png",
+		"images/image-sheet1.png",
+		"images/bggameover-sheet0.png",
+		"images/btnhome1-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/bg2-sheet0.png",
+		"media/typing-keyboard-sound-254462.ogg",
+		"media/audiomass-output.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
